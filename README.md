@@ -23,7 +23,7 @@ Personal portfolio with navigation bar that navigates to sections About me, Cont
  
  ---
  ## Links
- [Github Repository Link](https://github.com/Jelenarog/Jelena-Rogic.Portfolio) <br/>
+ [Github Repository Link](https://jelenarog.github.io/Jelena-Rogic-portfolio/) <br/>
  [Deployed website](https://jelenarog.github.io/Jelena-Rogic.Portfolio/)<br/>
  [HTML code](./assets/Images/Html.code.png)<br/>
  [CSS style sheet](./assets/Images/Css.Image.png)
