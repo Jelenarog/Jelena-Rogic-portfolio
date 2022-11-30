@@ -82,7 +82,7 @@
       text-decoration: underline;
   }
   
-  .Horiseon-project {/*setting my first project image to appear bigger than other projects*/
+  .bringPopcorn {/*setting my first project image to appear bigger than other projects*/
     width: 100%;
     margin-top: 20px;
   }
@@ -102,6 +102,7 @@
       flex-direction: column;
       position: relative;
   }
+
   .Refactoring{/*description on first project image*/
     padding-top: 10px;
     position: absolute;
@@ -157,7 +158,7 @@
 
   
   @media screen and (min-width: 600px) and (max-width: 992px) { /*making me website responsive to screen with max-width ofr 992px */
-    .horiseonProject img{
+    .bringPopcorn img{
         width: 700px;
     }
     .content-wrapper { 
@@ -236,9 +237,12 @@
   font-size: 20px;
  }
 
+ .bringPopcorn img{
+  width: 350px;
+}
 
-#Image1, #Image2, #Image3{
-  width: 100%;
+#Image2, #Image3, #Horiseon-project{
+  width: 80%;
 }
 .Refactoring{
   left:2%;
