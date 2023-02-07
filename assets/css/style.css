@@ -21,7 +21,7 @@
   }
   
   #profilePhoto {/*styling borders of Profile picture*/
-    width: 400px;
+    width: 500px;
     border-radius: 100%;
     border: 10px solid var(--color1);
   }
