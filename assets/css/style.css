@@ -21,7 +21,7 @@
   }
   
   #profilePhoto {/*styling borders of Profile picture*/
-    width: 500px;
+    width: 400px;
     border-radius: 100%;
     border: 10px solid var(--color1);
   }
@@ -48,7 +48,7 @@
   
   .Information {/*about me,work, contact, and resume font size*/
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
   }
   
   .Information a { /*style on links in nav bar*/
@@ -58,7 +58,7 @@
     margin: 4px 0;
     background-color: var(--color1);
     border-radius: 20px;
-    padding: 30px;
+    padding: 20px;
   }
   
   .Information a:hover { /* change style on link in nav when hovering over them*/ 
@@ -72,27 +72,23 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 30px;
+    font-size: 20px;
     text-align: left;
   }
   
   .heading { /*headings on About me and Work have same style underline and centered*/
       text-align: center;
-      font-size: 40px;
+      font-size: 30px;
       text-decoration: underline;
   }
   
-  .bringPopcorn {/*setting my first project image to appear bigger than other projects*/
-    width: 100%;
-    margin-top: 20px;
-  }
   
   .aboutInfo { /*paragraph in about me section style */
     background-color: var(--color1);
     border: 10px solid var(--color3);
     border-radius: 20px;
     padding: 20px 60px;
-    margin: 40px;
+    margin: 1%;
   }
   .projects {/*my first project display style*/
       display: flex;
@@ -103,17 +99,9 @@
       position: relative;
   }
 
-  .Refactoring{/*description on first project image*/
-    padding-top: 10px;
-    position: absolute;
-    height: 50px;
-    bottom: 30px;
-    left: 22%;
-    border: 2px #c96e6e solid;
-    background-color: whitesmoke;
-  }
   .projectInfo {/*paragraph in work section*/
-      font-size: 30px; 
+      font-size: 25px; 
+      padding: 20px;
   }
 
   .Future-projects{/*all future projects article style*/
