@@ -21,7 +21,7 @@
   }
   
   #profilePhoto {/*styling borders of Profile picture*/
-    width: 400px;
+    width: 500px;
     border-radius: 100%;
     border: 10px solid var(--color1);
   }
@@ -48,7 +48,7 @@
   
   .Information {/*about me,work, contact, and resume font size*/
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
   }
   
   .Information a { /*style on links in nav bar*/
@@ -58,7 +58,7 @@
     margin: 4px 0;
     background-color: var(--color1);
     border-radius: 20px;
-    padding: 20px;
+    padding: 30px;
   }
   
   .Information a:hover { /* change style on link in nav when hovering over them*/ 
@@ -72,7 +72,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 20px;
+    font-size: 30px;
     text-align: left;
   }
   
@@ -101,7 +101,7 @@
 
   .projectInfo {/*paragraph in work section*/
       font-size: 25px; 
-      padding: 20px;
+      padding: 20pxv;
   }
 
   .Future-projects{/*all future projects article style*/
