@@ -78,7 +78,7 @@
   
   .heading { /*headings on About me and Work have same style underline and centered*/
       text-align: center;
-      font-size: 30px;
+      font-size: 40px;
       text-decoration: underline;
   }
   
@@ -87,7 +87,7 @@
     background-color: var(--color1);
     border: 10px solid var(--color3);
     border-radius: 20px;
-    padding: 20px 60px;
+    padding: 30px 60px;
     margin: 1%;
   }
   .projects {/*my first project display style*/
